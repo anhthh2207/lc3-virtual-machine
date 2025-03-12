@@ -1,6 +1,6 @@
 # LC-3 Virtual Machine
 
-Midterm Project ELEC2030
+<!-- Midterm Project ELEC2030 -->
 
 **Description**: A simple LC-3 virtual machine written in C. The machine simulates how the CPU works inside a computer to execute an image program (compiled assembly program). The completed program is then tested with the provided 2048, hangman, and rogue game files.
 
